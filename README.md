@@ -1,3 +1,5 @@
+# This repository is no longer actively maintained.
+
 # Homebrew
 
 ## Formulae
